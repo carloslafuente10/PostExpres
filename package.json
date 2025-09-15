@@ -1,0 +1,25 @@
+{
+  "name": "postexpres",
+  "version": "1.0.0",
+  "description": "practica carlos",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node --watch app.js",
+    "start":  "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u001b[A"
+  },
+  "keywords": [
+    "[\"\u001b[D\u001b[\u001b2´´\u001b[Dexpressjs´]"
+  ],
+  "author": "Carlos La Fuente <carlos.aurelio.la.ca@gmail.com>",
+  "license": "MIT",
+  "packageManager": "pnpm@10.8.0+sha512.0e82714d1b5b43c74610193cb20734897c1d00de89d0e18420aebc5977fa13d780a9cb05734624e81ebd81cc876cd464794850641c48b9544326b5622ca29971",
+  "dependencies": {
+    "dotenv": "^17.2.2",
+    "express": "^5.1.0"
+  }
+}
